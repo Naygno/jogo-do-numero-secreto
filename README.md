@@ -36,7 +36,7 @@ Basta acessar aqui:
 
 ## 👤 Autor
 
-**Naygno Barbosa NOia**
+**Naygno Barbosa Noia**
 
 *   **LinkedIn:** www.linkedin.com/in/naygno
 *   **GitHub:** https://github.com/Naygno
