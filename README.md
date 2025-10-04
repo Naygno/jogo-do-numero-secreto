@@ -32,7 +32,7 @@ O desenvolvimento deste projeto foi uma jornada de aprendizado prático, superan
 
 ## 🎮 Teste o Jogo
 Basta acessar aqui:
-- [Jogo do Número Secreto](https://jogo-green-omega-31.vercel.app/)
+- [Jogo do Número Secreto](https://naygno.github.io/jogo-do-numero-secreto/)
 
 ## 👤 Autor
 
